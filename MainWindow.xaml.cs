@@ -24,5 +24,10 @@ namespace Bowling_Project
         {
             InitializeComponent();
         }
+
+        private void LeagueInfoBTN_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
