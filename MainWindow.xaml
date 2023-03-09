@@ -8,6 +8,16 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Name="LeagueInfoBTN" Content="League Info" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="83" Width="228" Click="LeagueInfoBTN_Click" />
+        <Button Name="LanesBTN" Content="Lanes" HorizontalAlignment="Left" Margin="254,11,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="82" Width="227" Click="LanesBTN_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.111"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
 
     </Grid>
 </Window>
