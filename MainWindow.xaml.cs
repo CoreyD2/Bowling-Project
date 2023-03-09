@@ -27,7 +27,13 @@ namespace Bowling_Project
 
         private void LeagueInfoBTN_Click(object sender, RoutedEventArgs e)
         {
-
+            ///This will show the following:
+            ///-league teams
+            ///-league bowlers
+            ///-bowlers averages
+            ///-league standings
+            ///-weekly standings
+            ///-lane pairings
         }
     }
 }
