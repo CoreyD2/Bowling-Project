@@ -40,7 +40,12 @@ namespace Bowling_Project
         {
             //display what teams are bowling on what lanes for the week
             //select the week you want to view
-            //manual edit option
+            //manual edit option 
+        }
+
+        private void Stats_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

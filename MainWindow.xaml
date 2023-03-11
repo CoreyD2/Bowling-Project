@@ -18,6 +18,16 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
+        <Button x:Name="Stats" Content="Stats" HorizontalAlignment="Left" Margin="505,12,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="82" Width="239" Click="Stats_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.243"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
 
     </Grid>
 </Window>
