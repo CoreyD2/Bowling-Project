@@ -45,7 +45,7 @@ namespace Bowling_Project
 
         private void Stats_Click(object sender, RoutedEventArgs e)
         {
-
+            //display stats for all bowlers/teams
         }
     }
 }
