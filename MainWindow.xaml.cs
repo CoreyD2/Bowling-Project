@@ -34,6 +34,7 @@ namespace Bowling_Project
             //-league standings
             //-weekly standings
             //-lane pairings
+            //-season high game
         }
 
         private void LanesBTN_Click(object sender, RoutedEventArgs e)
